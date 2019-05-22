@@ -1,0 +1,16 @@
+.container { 
+  width: auto;
+}
+
+.card-footer {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.card-footer p {
+  font-size: 10px;
+  background-color: rgba(118, 167, 138, 0.212);
+  
+  padding: 0 5px;
+  margin: 3px 3px;
+}
